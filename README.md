@@ -6,4 +6,4 @@ ODF is an XML-based file format for personal productivity applications such as o
 
 The ODF Marketing Open Project develops nonn-commercial, informational materials for a sustained communication campaign about the technical advantages and cost-savings of using standard-based document interoperability over proprietary formats.
 
-ODF Marketing is an [OASIS Open Project](oasis-open-projects.org). 
+ODF Marketing is an [OASIS Open Project](https://www.oasis-open-project.org). 
