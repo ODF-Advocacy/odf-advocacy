@@ -1,3 +1,5 @@
+<p align="center"><img src="img/oasis-op-logo.png" width="350"></p>
+
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
