@@ -1,3 +1,5 @@
+<p align="center"><img src="img/oasis-op-logo.png" width="350"></p>
+
 # Welcome to the home of the ODF Marketing Open Project.
 
 The ODF Marketing project works to create awareness and educate the world about the benefits of using the OpenDocument Format OASIS Standard (also published as ISO/IEC 26300).
