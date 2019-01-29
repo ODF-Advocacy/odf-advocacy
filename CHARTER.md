@@ -5,7 +5,7 @@
 -------------------------------------------
 
 
-| # Charter section |   |
+| *Charter section* |   |
 |-----------------------------------|-----------------------------------|
 | **1. Project Name**   |   |
 | ***1.1 Full Name***     | OpenDocument Format (ODF) Marketing  |
