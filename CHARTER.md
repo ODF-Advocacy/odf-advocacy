@@ -1,11 +1,11 @@
-<img src="img/oasis-op-logo.png">
+<p align="center"><img src="img/oasis-op-logo.png" width="350"></p>
 
 # ODF Marketing Charter
 *An OASIS Open Project*
 -------------------------------------------
 
 
-| *Charter section* |   |
+|*Charter section* |   |
 |-----------------------------------|-----------------------------------|
 | **1. Project Name**   |   |
 | ***1.1 Full Name***     | OpenDocument Format (ODF) Marketing  |
