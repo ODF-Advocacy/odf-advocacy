@@ -1,4 +1,4 @@
-<p align="center"><img src="img/oasis-op-logo.png" width="350"></p>
+<img src="img/oasis-op-logo.png" width="200">
 
 # Welcome to the home of the ODF Marketing Open Project.
 
