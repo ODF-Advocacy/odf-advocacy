@@ -1,5 +1,3 @@
-<p align="center"><img src="img/oasis-op-logo.png" width="350"></p>
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
