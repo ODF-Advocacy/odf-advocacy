@@ -1,11 +1,6 @@
-<p align="center"><img src="img/oasis-op-logo.png" width="350"></p>
+<img src="img/oasis-op-logo.png" width="200">
 
-# ODF Marketing Charter
-*An OASIS Open Project*
--------------------------------------------
-
-
-|*Charter section* |   |
+| | # ODF Marketing Charter  |
 |-----------------------------------|-----------------------------------|
 | **1. Project Name**   |   |
 | ***1.1 Full Name***     | OpenDocument Format (ODF) Marketing  |
@@ -16,12 +11,9 @@
 |**5. Relationship to Other Projects**  |The ODF Marketing Open Project can be related to other open source projects using ODF as their native file format such as Calligra, AbiWord and Gnumeric, or compatible with ODF such as Scribus.<br/>The ODF Marketing Open Project can also be related to proprietary applications supporting ODF, provided they do not detract from the project’s original objective to promote the use of ODF.|
 |**6. Repositories and Licenses** |https://github.com/ODF-Marketing Code, if any, will be released under [License TBD], to provide compatibility with the main open source projects and access to proprietary projects. Documents will be released under CC license Attribution 4.0 International (CC BY 4.0). |
 |**7. Initial Contributions from Existing Work**  |  |
-|**8. Project Leadership**   |      |
-|***8.1 Project Governing Board***  | Marina Latini, CIB, marina.latini@cib.de<br/>Italo Vignoli, The Document Foundation, italo@documentfoundation.org |
-|***8.2 Technical Steering Committee*** | Members of the Project Governing Board (PGB) also serve as the Technical Steering Committee (TSC) at the initiation of the project.| 
-|***8.3 Other Contributors (Optional)*** | Marijke Abrahamse, Logius, marijke.abrahamse@logius.nl<br/>Han Zuidweg, Logius, han.zuidweg@forumstandaardisatie.nl<br/>Daniel Melin, Kammaracollegiet, daniel.melin@kammarkollegiet.se<br/>Stuart Mackintosh, Open UK, stuart.mackintosh@openuk.uk |   
 
 For more information, please see:
-- [[Open Projects Handbook]](https://docs.google.com/document/d/1DkDkeDBfnMItJfTsM0jeDbKz_R8tZQvTAwsIncZ0icY/)
+- [[Open Projects Guide]](https://github.com/oasis-open-projects/documentation/tree/master/guides)
+- [[Getting Started with Open Projects]](https://github.com/oasis-open-projects/documentation/blob/master/guides/getting-started-guide.md)
 - [[Open Project Rules]](https://www.oasis-open.org/policies-guidelines/open-projects-process)
 - [[Open Projects Website]](http://oasis-open-projects.org)
