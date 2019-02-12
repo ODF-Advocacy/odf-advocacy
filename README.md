@@ -16,7 +16,7 @@ The ODF Advocacy Open Project relies on organizational sponsorship to fund its w
 
 [CIB](https://www.cib.de/en/home.html)
 
-To become an ODF Advocacy Sponsor, visit [Open Project Sponsorship](https://www.oasis-open-project.org) or contact [communications@oasis-open.org](email).
+To become an ODF Advocacy Sponsor, visit [Open Project Sponsorship](https://oasis-open-projects.org/sponsorship/) or contact [communications@oasis-open.org](email).
 
 ## Project Governing Board
 
