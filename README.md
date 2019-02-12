@@ -8,7 +8,7 @@ ODF is an XML-based file format for personal productivity applications such as o
 
 The ODF Advocacy project develops non-commercial, informational materials for a sustained communication campaign about the technical advantages and cost-savings of using standard-based document interoperability over proprietary formats.
 
-ODF Advocacy is an [OASIS Open Project](https://www.oasis-open-project.org). 
+ODF Advocacy is an [OASIS Open Project](https://oasis-open-projects.org/). 
 
 ## Sponsors
 
