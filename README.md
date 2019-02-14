@@ -20,6 +20,4 @@ To become an ODF Advocacy Sponsor, visit [Open Project Sponsorship](https://oasi
 
 ## Project Governing Board
 
-Marina Latini, CIB, marina.latini@cib.de
-
-Italo Vignoli, The Document Foundation, italo@documentfoundation.org
+The Project Governing Board provides top-level guidance and strategic direction for ODF Advocacy. Members of the Board, which will include representatives from ODF Advocacy Sponsor organizations, will be listed here.
