@@ -20,4 +20,6 @@ To become an ODF Advocacy Sponsor, visit [Open Project Sponsorship](https://oasi
 
 ## Project Governing Board
 
-The Project Governing Board provides top-level guidance and strategic direction for ODF Advocacy. Members of the Board, which will include representatives from ODF Advocacy Sponsor organizations, will be listed here.
+The Project Governing Board provides top-level guidance and strategic direction for ODF Advocacy. Members of the Board are: 
+
+*  Italo Vignoli (italo@documentfoundation.org), [The Document Foundation](https://www.documentfoundation.org/)
