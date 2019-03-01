@@ -29,4 +29,4 @@ The Project Governing Board provides top-level guidance and strategic direction 
 
 odf-advocacy@lists.oasis-open.org
 
-This mailing list supports the work of the ODF Advocacy Open Project. Anyone interested in the work of the ODF Advocacy OP is welcome to subscribe to the list by sending an empty email to odf-advocacy-subscribe@lists.oasis-open.org and replying to the confirmation email. Membership in OASIS is not required to subscribe to this email or to participate in the ODF Advocacy Open Project. 
+Anyone interested in the work of the ODF Advocacy Open Project is welcome to subscribe to public email list by sending an empty email to odf-advocacy-subscribe@lists.oasis-open.org and replying to the confirmation email. 
