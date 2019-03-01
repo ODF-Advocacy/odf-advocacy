@@ -24,3 +24,9 @@ To become an ODF Advocacy Sponsor, visit [Open Project Sponsorship](https://oasi
 The Project Governing Board provides top-level guidance and strategic direction for ODF Advocacy. Members of the Board are: 
 
 *  Italo Vignoli (italo@documentfoundation.org), [The Document Foundation](https://www.documentfoundation.org/)
+
+## Mailing list
+
+odf-advocacy@lists.oasis-open.org
+
+This mailing list supports the work of the ODF Advocacy Open Project. Anyone interested in the work of the ODF Advocacy OP is welcome to subscribe to the list by sending an empty email to odf-advocacy-subscribe@lists.oasis-open.org and replying to the confirmation email. Membership in OASIS is not required to subscribe to this email or to participate in the ODF Advocacy Open Project. 
