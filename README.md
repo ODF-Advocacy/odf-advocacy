@@ -15,6 +15,7 @@ ODF Advocacy is an [OASIS Open Project](https://oasis-open-projects.org/).
 The ODF Advocacy Open Project relies on organizational sponsorship to fund its work. The ODF Advocacy project is sponsored by:
 
 [CIB labs GmbH](https://www.cib.de/)
+
 [The Document Foundation](https://www.documentfoundation.org/)
 
 To become an ODF Advocacy Sponsor, visit [Open Project Sponsorship](https://oasis-open-projects.org/sponsorship/) or contact [communications@oasis-open.org](email).
