@@ -1,4 +1,4 @@
-<img src="img/oasis-op-logo.png" width="200">
+<img src="img/odf-logo.png" width="200">
 
 # Welcome to the home of the ODF Advocacy Open Project.
 
@@ -8,17 +8,13 @@ ODF is an XML-based file format for personal productivity applications such as o
 
 The ODF Advocacy project develops non-commercial, informational materials for a sustained communication campaign about the technical advantages and cost-savings of using standard-based document interoperability over proprietary formats.
 
-ODF Advocacy is an [OASIS Open Project](https://oasis-open-projects.org/). 
-
 ## Sponsors
 
-The ODF Advocacy Open Project relies on organizational sponsorship to fund its work. The ODF Advocacy project is sponsored by:
+The ODF Advocacy project is sponsored by:
 
 [CIB labs GmbH](https://www.cib.de/)
 
 [The Document Foundation](https://www.documentfoundation.org/)
-
-To become an ODF Advocacy Sponsor, visit [Open Project Sponsorship](https://oasis-open-projects.org/sponsorship/) or contact [communications@oasis-open.org](email).
 
 ## Project Governing Board
 
