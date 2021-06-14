@@ -23,8 +23,4 @@ The Project Governing Board provides top-level guidance and strategic direction 
 *  Marina Latini (marina.latini@cib.de), [CIB labs GmbH](https://www.cib.de/)
 *  Italo Vignoli (italo@documentfoundation.org), [The Document Foundation](https://www.documentfoundation.org/)
 
-## Mailing list
-
-odf-advocacy@lists.oasis-open.org
-
-Anyone interested in the work of the ODF Advocacy Open Project is welcome to subscribe by sending an empty email to odf-advocacy-subscribe@lists.oasis-open.org and replying to the confirmation email. [List archives](https://lists.oasis-open.org/archives/odf-advocacy/201903/maillist.html) are publicly viewable. 
+ 
