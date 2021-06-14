@@ -1,6 +1,6 @@
 <img src="img/odf-logo.png" width="200">
 
-# Welcome to the home of the ODF Advocacy Open Project.
+# Welcome to the home of the ODF Advocacy Project.
 
 The ODF Advocacy project works to create awareness and educate the world about the benefits of using the OpenDocument Format OASIS Standard (also published as ISO/IEC 26300).
 
