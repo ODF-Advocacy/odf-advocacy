@@ -1,4 +1,4 @@
-<img src="img/oasis-op-logo.png" width="200">
+<img src="img/odf-logo.png" width="200">
 
 | |<h1>ODF Advocacy Charter</h1>  |
 |-----------------------------------|-----------------------------------|
