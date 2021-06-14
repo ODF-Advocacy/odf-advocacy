@@ -11,9 +11,3 @@
 |**5. Relationship to Other Projects**  |The ODF Advocacy Project can be related to other open source projects using ODF as their native file format such as Calligra, AbiWord and Gnumeric, or compatible with ODF such as Scribus.<br/>The ODF Advocacy Project can also be related to proprietary applications supporting ODF, provided they do not detract from the project’s original objective to promote the use of ODF.|
 |**6. Repositories and Licenses** |https://github.com/ODF-Advocacy Documents will be released under CC license Attribution 4.0 International (CC BY 4.0). |
 |**7. Initial Contributions from Existing Work**  |  |
-
-For more information, please see:
-- [[Open Projects Guide]](https://github.com/oasis-open-projects/documentation/tree/master/guides)
-- [[Getting Started with Open Projects]](https://github.com/oasis-open-projects/documentation/blob/master/guides/getting-started-guide.md)
-- [[Open Project Rules]](https://www.oasis-open.org/policies-guidelines/open-projects-process)
-- [[Open Projects Website]](http://oasis-open-projects.org)
