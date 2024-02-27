@@ -12,8 +12,6 @@ The ODF Advocacy project develops non-commercial, informational materials for a 
 
 The ODF Advocacy project is sponsored by:
 
-[CIB labs GmbH](https://www.cib.de/)
-
 [The Document Foundation](https://www.documentfoundation.org/)
 
 ## Project Governing Board
